@@ -1,0 +1,6 @@
+The kitchen was created!
+4 Pasta were added to the kitchen!
+We dont have Falafel, sorry!
+3 Pasta were added to the table number 5
+1 Pasta was returned to the kitchen from table number 5
+Kitchen: Fish 10 Steak 31 Pasta 23 Pizza 40 
